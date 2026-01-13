@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "1b701f04283fe555",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e72aa40918cbd17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50bd9572937c7de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crown Fallen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crown Fallen"
+            }
+          },
+          {
+            "id": "80e629bf5c7cd0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Duelist/Duelist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Duelist"
+            }
+          },
+          {
+            "id": "4a88f7db86979f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Conjurer/Improved Heart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Improved Heart"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4363eaac70f3e55e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e193e49bde24b0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Duelist/Blade Dancer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blade Dancer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d014da765570e7fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33605e9ebdf3273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0dd7bf2266273b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9f5d8a7ff322267b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e8b65e12f1f62f0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5ecce1d24a3360f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf3a7d7057cfe098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d82ea7d71c1096e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes/Conjurer/Improved Heart.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Improved Heart"
+            }
+          },
+          {
+            "id": "9821130e7939b5cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classes/Conjurer/Improved Heart.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Improved Heart"
+            }
+          },
+          {
+            "id": "313c997cebce1d53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa01ca0627b17b59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes/Conjurer/Improved Heart.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Improved Heart"
+            }
+          },
+          {
+            "id": "513dfc88a020f7a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4a88f7db86979f31",
+  "lastOpenFiles": [
+    "Crown-Fallen/Thoughts Ideas ToDo.md",
+    "Crown-Fallen/Crown Fallen.md",
+    "Crown-Fallen/Races/Races.md",
+    "Crown-Fallen/Races",
+    "Crown-Fallen/Game Rules/Combat.md",
+    "Crown-Fallen/Game Rules/Character Modifiers.md",
+    "Crown-Fallen/Game Rules",
+    "Crown-Fallen/Classes/Duelist/Duelist.md",
+    "Crown-Fallen/Classes/Duelist/Blade Dancer.md",
+    "Crown-Fallen/Classes/Duelist",
+    "Crown-Fallen/Classes/Conjurer/Improved Heart.md",
+    "Crown-Fallen/Classes/Conjurer/Field Marshal.md",
+    "Crown-Fallen/Classes/Conjurer/Cursed Past.md",
+    "Crown-Fallen/Classes/Conjurer/Conjurer.md",
+    "Crown-Fallen/Classes/Conjurer",
+    "Crown-Fallen/Classes/Features.md",
+    "Crown-Fallen/Classes/Create a Character.md",
+    "Crown-Fallen/Classes",
+    "Classes/Duelist/Blade Dancer.md",
+    "Crown-Fallen",
+    "Classes/Conjurer/Improved Heart.md",
+    "Classes/Conjurer/Field Marshal.md",
+    "Classes/Conjurer/Cursed Past.md",
+    "Classes/Conjurer/Conjurer.md",
+    "Races/Races.md",
+    "Classes/Duelist/Duelist.md",
+    "Thoughts Ideas ToDo.md",
+    "Classes/Create a Character.md",
+    "Classes/Features.md",
+    "Crown Fallen.md",
+    "Game Rules/Character Modifiers.md",
+    "Game Rules/Combat.md",
+    "Races",
+    "Classes/Duelist",
+    "Classes/Conjurer",
+    "Game Rules"
+  ]
+}
