@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Duelist/Duelist.md",
+                "file": "Classes/Duelist/Blade Dancer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duelist"
-            }
-          },
-          {
-            "id": "4a88f7db86979f31",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Blade Dancer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Conjurer/Improved Heart.md",
+                "file": "Classes/Duelist/Blade Dancer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Improved Heart"
+              "title": "Outline of Blade Dancer"
             }
           },
           {
@@ -209,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a88f7db86979f31",
+  "active": "513dfc88a020f7a7",
   "lastOpenFiles": [
+    "Classes/Duelist/Duelist.md",
     "Classes/Duelist/Blade Dancer.md",
     "Classes/Conjurer/Improved Heart.md",
     "Crown-Fallen/Thoughts Ideas ToDo.md",
@@ -236,7 +223,6 @@
     "Classes/Conjurer/Cursed Past.md",
     "Classes/Conjurer/Conjurer.md",
     "Races/Races.md",
-    "Classes/Duelist/Duelist.md",
     "Thoughts Ideas ToDo.md",
     "Classes/Create a Character.md",
     "Classes/Features.md",
