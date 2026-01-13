@@ -51,26 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "4363eaac70f3e55e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e193e49bde24b0bf",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e193e49bde24b0bf",
+  "active": "513dfc88a020f7a7",
   "lastOpenFiles": [
     "Classes/Duelist/Blade Dancer.md",
     "Classes/Conjurer/Improved Heart.md",
