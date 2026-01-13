@@ -39,14 +39,14 @@
             "id": "4a88f7db86979f31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Classes/Conjurer/Improved Heart.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Improved Heart"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "513dfc88a020f7a7",
+  "active": "4a88f7db86979f31",
   "lastOpenFiles": [
     "Classes/Duelist/Blade Dancer.md",
     "Classes/Conjurer/Improved Heart.md",
