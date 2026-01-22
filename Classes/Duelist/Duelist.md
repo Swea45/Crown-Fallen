@@ -72,19 +72,6 @@ You can chose nonmagical equipment worth 100 gold or pick from the options bello
  * 60 ft or rope
  * Bedroll
 
-## Martial Discipline
-At 1st and 6th level, pick one martial disciplines and add the sub trees to skills to chose from.
-* [[Blade Dancer]]
-* Spellblade (Magic)
-* Void Knight (Eldritch/Wierd)
-* Brawler (Bear handed)
-* Archer (Range)
-* Siegebreaker (AOE)
-* Aesthetic Path (Skills and tools)
-
-## Duelist Skills
-You are allowed to pick duelist skills from the duelist core tree or/and your sub trees equal to the amount of Duelist skills you currently have. When picking skills you need to have picked the the skill before in corresponding tree, to be able to pick the 3rd ability in the "Damage" tree you need to already chosen the 2nd and 1st ability. You are allowed to go fully into one tree or spread them out when taking new skills.
-
 ### Duelist Core Tree
 
 |     | AC                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Hit                                                                                       | Damage                                                                                                                                             | Movment                                                                                                                                                                |
@@ -95,6 +82,23 @@ You are allowed to pick duelist skills from the duelist core tree or/and your su
 | 4   | You can use your reaction to parry a melee attack against you. You need to choose to use this ability before you know if the attack hits or not. Roll your duelist modifier to the parry the attack. <br><br>1–4: The melee attack does half damage.<br><br>5-6: The melee attack does no damage <br><br>7-10: You have the attack change target to the creature that attacked.<br><br>You can use this ability equal to your proficiency modifier. | You gain advantage on attack hit rolls against targets you hit last turn                  | You gain a additional weapon dice.                                                                                                                 | Opponents can't take opportunity attacks against you                                                                                                                   |
 | 5   | You cant get critical hit                                                                                                                                                                                                                                                                                                                                                                                                                           | Whenever you roll a 19 or 20 on an attack roll, you gain an extra action this turn        | When dealing 20 or more damage in a single hit you can Incapacitated the target. You can do this equal to your proficiency modifier per long rest. | You can use your bonus action to dash. When dashing you gain a flight speed equal to the added movement. If you would end your turn in the air you fall to the ground. |
 
+## Martial Discipline
+At 1st and 6th level, pick one martial disciplines and add the sub trees to skills to chose from.
+* [[Blade Dancer]]
+* Spellblade (Magic)
+* Void Knight (Eldritch/Wierd)
+* Brawler (Bear handed)
+* Archer (Range)
+* Siegebreaker (AOE)
+* [[Aesthetic Path]]
+
+#### Martial Discipline Ability
+When picking a martial disciple you gain its Innate ability. When leveling to level 5, 11, 15 you can pick a martial ability from one of your martial discipline.
+#### Martial Discipline Tree
+When picking a martial discipline you add its tree to the trees that you have access to pick skills from when gaining duelist skill points. Some martial discipline trees have requirements for when there skills can be used.
+
+## Duelist Skills
+You are allowed to pick duelist skills from the duelist core tree or/and your sub trees equal to the amount of Duelist skills you currently have. When picking skills you need to have picked the the skill before in corresponding tree, to be able to pick the 3rd ability in the "Damage" tree you need to already chosen the 2nd and 1st ability. You are allowed to go fully into one tree or spread them out when taking new skills.
 ## First Aid
 Starting at 2nd level, you can draw on your combat focus to recover from injuries. As a bonus action, you regain hit points equal to your **Duelist modifier + your Duelist level**.
 
