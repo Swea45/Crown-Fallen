@@ -5,14 +5,13 @@
 ### Martial Tree Requirement
 The Siegebreaker tree skills can only be used while using a heavy weapon.
 
-
-|     | Siegebreaker |
-| --- | ------------ |
-| 1   |              |
-| 2   |              |
-| 3   |              |
-| 4   |              |
-| 5   |              |
+|     | Siegebreaker                                                                                                                                                            |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | As a bonus action you can move a creature of the same size within 5ft of you, 10ft to a unoccupied space. The target makes a strength saving throw vs 8 + STR modifier. |
+| 2   |                                                                                                                                                                         |
+| 3   | For each additional creature after the first you hit adds your duelist modifier to the damage roll                                                                      |
+| 4   |                                                                                                                                                                         |
+| 5   |                                                                                                                                                                         |
 
 ### Innate Ability
 When using a heavy weapon your physical attacks can target a 10ft square withing your weapon reach. 

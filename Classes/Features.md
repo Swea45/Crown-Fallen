@@ -48,6 +48,7 @@ You become proficient with Heavy armor.
 
 --- 
 ##### Magical Novice
+*Repeat*
 You learn a cantrip and can cast it using your intelligent modifier for spellcasting. If you already have spellcasting ability you can use that modifier for the cantrip.
 
 ---

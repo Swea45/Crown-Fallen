@@ -26,11 +26,11 @@ Each player character starts with a D6 as there hit dice, witch can be upgraded 
 
 Players can still take all actions and moment even if health they have 0 or less hit points. Health needs to be tracked while negative. 
 #### Death Throws
-When a player character hits or falls bellow 0 hit points they gain the the [[#At Death’s Door]] and [[#Unstable]] status, unless the already have it. 
+When a player character hits or falls bellow 0 hit points they gain the [[#At Death’s Door]] and [[#Unstable]] status, unless they already have it. 
 
-While a creature with the "[[#At Death’s Door]]" status would take damage while no having any hit points the player needs to roll a death throw, if the attack would take the target from a positive amount of heath to a negative the player rolls with advantage. 
+While a creature with the "[[#At Death’s Door]]" status would take damage while bellow 0 hit points the player needs to roll a death throw, if the attack would take the target from a positive amount of heath to a negative the player rolls with advantage. 
 
-To make a Death Throw, roll a D20 vs your [[#At Death’s Door]] DC. 
+To make a Death Throw, roll a D20 vs your [[#At Death’s Door]] DC, on a fail the character die.
 #### At Death’s Door
 When a creature gains the At Death’s Door condition, its Death Throw DC is set to 5.  
 This DC remains in effect until the condition is removed.

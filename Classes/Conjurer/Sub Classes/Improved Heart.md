@@ -14,7 +14,7 @@ At Level 3 during a long rest you can change your form to one of the following:
 - **Body of the Golem:**
     Your body becomes thick and rocky, you resist sharp objects. Non-magical slashing damage is reduced by 3, at level 11 the damage is reduced by 6. 
 - **Body of the Zombie:**
-    Your body isn't bothered by small holes in it. It quickly stops fluids and organs to become destroyed and slowly regenerate the rest. Non-magical piercing damage is reduced by 3, at level 11 the damage is reduced by 6.**
+    Your body isn't bothered by small holes in it. It quickly stops fluids and organs to become destroyed and slowly regenerate the rest. Non-magical piercing damage is reduced by 3, at level 11 the damage is reduced by 6.
 
 ## Imbued with Magic
 At 6th level your body has started to remember and keeps the magic inside of it even after your spells have ended. Your strikes made with your body count as magical for the purpose of overcoming resistances and immunities to non magical attacks, your Body Modification now also works against magical damage.

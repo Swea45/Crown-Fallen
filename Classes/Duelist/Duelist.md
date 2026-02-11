@@ -89,7 +89,7 @@ At 1st and 6th level, pick one martial disciplines and add the sub trees to skil
 * Void Knight (Eldritch/Wierd)
 * Brawler (Bear handed)
 * Archer (Range)
-* Siegebreaker (AOE)
+* [[Siegebreaker]]
 * [[Aesthetic Path]]
 
 #### Martial Discipline Ability
@@ -133,4 +133,4 @@ At 20th level, when rolling for initiative you can roll a second time to have a 
 ## Spacial Duel (Sub class ability?)
 Beginning at 6th level you can use your bonus action to force one creature 5 feet from you of the same size as you or one size larger to a separate dimension until the end of your next turn. When you return you both enter an unoccupied space close to where you disappeared.
 
-The dimension is a 30 feet radius arena, when you and the creature are in this separate space no other creature can interact with you or the creature until you return. You can use this ability equal to your proficiency modifier per long rest.
+The dimension is a 30 feet radius arena, when you and the creature are in this separate space no other creature can interact with you or the creature until you return. You can use this ability equal to your proficiency modifier per long rest. 
