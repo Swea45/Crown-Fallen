@@ -67,4 +67,27 @@ You gain a additional reaction that you can use between turns.
 ---
 ##### Quick
 Your speed increases by 5 ft.
+
+--- 
+##### Hardened Fist I
+Your unarmed attack becomes a d6.  
+
+---
+##### Hardened Fist II
+*Requirement: Hardened Fist I*
+Your unarmed attack becomes a d8.
+
+---
+##### Hardened Fist III
+*Requirement: Hardened Fist II*
+Your unarmed attack becomes a d10.
+
+--- 
+##### Quick Fist I
+When rolling a unarmed attack add a additional unarmed dice to the damage.  
+
+---
+##### Quick Fist II
+*Requirement: Quick Fist I*
+When rolling a unarmed attack add a additional unarmed dice to the damage.
 # Advanced Features

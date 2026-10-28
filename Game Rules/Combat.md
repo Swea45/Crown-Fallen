@@ -40,6 +40,8 @@ When using multiple movement types, the total distance moved cannot exceed the h
 # Attack
 
 ## Attack
+Attacks with multiple targets:
+When using an attack that have multiple targets or area of effect, roll once and each effected target compare to the roll. Damages is rolled once and delt to each character. 
 
 ## Magic Attack
 ## Opportunity Attack

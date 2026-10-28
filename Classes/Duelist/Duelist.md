@@ -85,7 +85,7 @@ You can chose nonmagical equipment worth 100 gold or pick from the options bello
 ## Martial Discipline
 At 1st and 6th level, pick one martial disciplines and add the sub trees to skills to chose from.
 * [[Blade Dancer]]
-* Spellblade (Magic)
+* [[Spellblade]]
 * Void Knight (Eldritch/Wierd)
 * Brawler (Bear handed)
 * Archer (Range)

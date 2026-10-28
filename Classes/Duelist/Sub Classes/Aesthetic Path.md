@@ -13,7 +13,7 @@ You are a fighter, a creator, and an artist. Though you are capable in physical 
 You become proficient in two skills and a tool of your choose. You also become Specialized in a skill that you are already proficient in.
 
 ### Martial Ability: Mentor
-When a friendly creature makes a skill check that you are proficient in they you can change there modifier to what your modifier is in that skill. 
+When a friendly creature makes a skill check that you are proficient in, you can add your bonus to there roll, do this before they roll. 
 You can do this equal to your proficiency modifier per long rest.  
 
 ### Martial Ability: Versatile
