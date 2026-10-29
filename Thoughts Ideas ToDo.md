@@ -16,8 +16,6 @@
 ## Thoughts
 * Movment: when a character starts moving they can not move again during the combat turn. When the next action, bonus action or move starts the character cant move again that turn. (How do we handle AOE or sneak attack, abilitis that needs/punish positions. Is this a problem?)
 
-* Remove Classes and make it fully custom, allowing every ability to be picket from a pool of skills. Having classes be premade from the skills that you can pick.  
-
 * Equipment and weapons. How do we handle starting equipment.
 * Equipment and weapons. Simple weapons can be welded by any character and have advanced weapons be a basic feature that is needed to learn that weapon and let them have a bigger dice.
 

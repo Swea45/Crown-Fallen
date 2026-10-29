@@ -87,7 +87,7 @@ At 1st and 6th level, pick one martial disciplines and add the sub trees to skil
 * [[Blade Dancer]]
 * [[Spellblade]]
 * Void Knight (Eldritch/Wierd)
-* Brawler (Bear handed)
+* [[Brawler]]
 * Archer (Range)
 * [[Siegebreaker]]
 * [[Aesthetic Path]]

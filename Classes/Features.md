@@ -1,8 +1,7 @@
 # Basic Features
-Basic features are include skills, proficiencies and character modifications. When creating a character you can pick an amount of basic features equal to your class.
+Basic Features include skills, proficiencies, and character modifications. When creating a character, you can pick a number of Basic Features equal to your class.
 
-Some Basic Features needs a requirement before you have the option to pick them. If a Basic Feature have the Repeat you can pick this multiple times.
-
+Some Basic Features have requirements that must be met before you can pick them. If a Basic Feature has the Repeat trait, you can pick it multiple times.
 
 --- 
 ##### Runeflesh I
@@ -91,3 +90,8 @@ When rolling a unarmed attack add a additional unarmed dice to the damage.
 *Requirement: Quick Fist I*
 When rolling a unarmed attack add a additional unarmed dice to the damage.
 # Advanced Features
+
+##### Heavy Fists
+Your unarmed attacks counts as heavy weapon.  
+
+---
