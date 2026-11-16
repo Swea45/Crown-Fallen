@@ -24,7 +24,7 @@ Each player character starts with a D6 as there hit dice, witch can be upgraded 
 * For the first level you get the max amount of your hit dice 
 * All other levels you ether roll or use the average of your hit dice.
 
-Players can still take all actions and moment even if health they have 0 or less hit points. Health needs to be tracked while negative. 
+Players can still take all actions and movement even if health they have is 0 or less. Health needs to be tracked while negative. 
 #### Death Throws
 When a player character hits or falls bellow 0 hit points they gain the [[#At Death’s Door]] and [[#Unstable]] status, unless they already have it. 
 
