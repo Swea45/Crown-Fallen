@@ -1,18 +1,5 @@
 You learned early that magic is slow without steel, and steel is limited without magic. So you mastered both. You reinforce your movements with arcane energy and shape spells to follow the path of your weapon. When distance would deny you, you let magic carry your blade beyond your reach, striking foes as if the steel never left your hand.
 
-
-![[Duelist#Martial Discipline Tree]]
-
-### Martial Tree Requirement
-You need a spell focus to cast spells.
-
-|     | Spellblade                                  |
-| --- | ------------------------------------------- |
-| 1   | You gain two 1st level spell slots.         |
-| 2   | You gain two 2nd level spell slots.         |
-| 3   | You gain a 2nd and a 3rd level spell slots. |
-| 4   | You gain a 2nd and a 4th level spell slots. |
-| 5   | You gain a 3rd and a 5th level spell slots. |
 ### Innate Ability
 You have a basic grasp of magic and chose to wielding both magic and steel. See Spells Rules for general rules of spellcasting and your Spellblade spell list.
 
@@ -43,6 +30,19 @@ Spell attack modifier = Duelist modifier.
 
 **Spellcasting Focus**
 As a Spellblade you can use most weapons as a spell focus. 
+
+![[Duelist#Martial Discipline Tree]]
+
+### Martial Tree Requirement
+You need a spell focus to cast spells.
+
+|     | Spellblade                                           |
+| --- | ---------------------------------------------------- |
+| 1   | You gain two additional 1st level spell slots.       |
+| 2   | You gain two additional 2nd level spell slots.       |
+| 3   | You gain a additional 2nd and 3rd level spell slots. |
+| 4   | You gain a additional 2nd and 4th level spell slots. |
+| 5   | You gain a additional 3rd and 5th level spell slots. |
 
 ### Martial Ability: Quick Recovery
 You regain your spell slots when you finish a short rest.

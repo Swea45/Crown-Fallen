@@ -1,5 +1,8 @@
 You meet resistance with overwhelming force, turning your weight and momentum into weapons of their own. Wielding heavy weapons, you break through enemy lines, shatter defenses, and force your opponents from their positions. Every swing is deliberate and powerful, creating openings through sheer force and leaving little standing in your wake. Where others find obstacles, you find something to break.
 
+### Innate Ability
+When using a heavy weapon your physical attacks can target a 10ft square with in your weapon reach. 
+
 ![[Duelist#Martial Discipline Tree]]
 
 ### Martial Tree Requirement
@@ -12,9 +15,6 @@ The Siegebreaker tree skills can only be used while using a heavy weapon.
 | 3   | For each additional creature after the first you hit adds your duelist modifier to the damage roll                                                                                                                                                    |
 | 4   | You deal dubble damage to objects and constructions.                                                                                                                                                                                                  |
 | 5   | When using a heavy weapon, your physical attacks can target a 20 ft. square within your weapon's reach. You can't use your reaction until your next turn.                                                                                             |
-
-### Innate Ability
-When using a heavy weapon your physical attacks can target a 10ft square with in your weapon reach. 
 
 ### Martial Ability: Earth Tremble
 As an action, each creature within a 15ft cone originating from you must make a DEX saving throw against a DC equal to 8 + STR + your Duelist modifier.
